@@ -1,0 +1,11 @@
+root = true
+
+[**]
+indent_size = 2
+tab_width = 2
+ij_continuation_indent_size = 4
+
+[**.java]
+ij_java_blank_lines_after_class_header = 1
+ij_java_blank_lines_before_class_end = 1
+ij_java_keep_blank_lines_in_code = 1
